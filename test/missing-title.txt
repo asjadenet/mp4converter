@@ -1,0 +1,7 @@
+;FFMETADATA1
+major_brand=isom
+minor_version=0
+compatible_brands=isom3gp4
+location-eng=+28.2368-016.8423/
+location=+28.2368-016.8423/
+encoder=Lavf57.63.100
